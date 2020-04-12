@@ -1,0 +1,38 @@
+[{
+	"name": "yoshi",
+	"belt": "green",
+	"rate": 50,
+	"available": true,
+	"thumb": "content/img/yoshi1.png"
+}, {
+	"name": "peach",
+	"belt": "orange",
+	"rate": 40,
+	"available": true,
+	"thumb": "content/img/peach2.png"
+}, {
+	"name": "luigi",
+	"belt": "yellow",
+	"rate": 10,
+	"available": true,
+	"thumb": "content/img/luigi1.png"
+}, {
+	"name": "mario",
+	"belt": "black",
+	"rate": 1000,
+	"available": true,
+	"thumb": "content/img/mario1.png"
+},{
+	"name": "bowser",
+	"belt": "blue",
+	"rate": 2000,
+	"available": true,
+	"thumb": "content/img/bowser.png"
+}, {
+	"name": "toad",
+	"belt": "lime",
+	"rate": 700,
+	"available": true,
+	"thumb": "content/img/toad.png"
+}
+]
